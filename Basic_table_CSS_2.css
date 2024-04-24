@@ -1,0 +1,22 @@
+table {
+	border: 2px solid grey;
+}
+td:hover {
+	background-color: red;
+	color: pink;
+}
+tr, th {
+	text-shadow: 1px 1px 1px yellow;
+	background-color: light blue;
+	color ; gold;
+}
+tr, td {
+	background-color: green;
+	color: white;
+}
+ol {
+	list-style-type: upper-roman;
+}
+ul { 
+	list-style-type: square;
+}
