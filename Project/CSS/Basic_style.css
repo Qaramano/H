@@ -69,7 +69,7 @@ transition: transform .5s ease-in-out;
 .squares:nth-child(1) :hover {
     background: #13b4ff;
 }
-.squares:nth-child(2) :hover{
+.squares:nth-child(2) :hover {
     background: #d861af;
 }
 .squares:nth-child(3) :hover {
