@@ -49,11 +49,11 @@ window.onload = function() {
   
     var typed = new Typed(".typing", {
       strings: [
-        "Fullstack Developer",
+        "HTML",
         "Software Developer",
         "Python Developer",
-        "Founder",
-        "Author"
+        "JavaScript",
+        "SQL"
       ],
       typeSpeed: 100,
       backSpeed: 60,
@@ -62,11 +62,11 @@ window.onload = function() {
   
     var typed = new Typed(".typing-2", {
       strings: [
-        "Fullstack Developer",
-        "Software Developer",
-        "Python Developer",
-        "Founder",
-        "Author"
+      "HTML",
+      "Software Developer",
+      "Python Developer",
+      "JavaScript",
+      "SQL"
       ],
       typeSpeed: 100,
       backSpeed: 60,
